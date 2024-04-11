@@ -1,1 +1,14 @@
+{
+  "tasks": [],
+  "users": [
+    {
+      "id": "1",
+      "email": "thiagovss21@gmail.com"
+    },
+    {
+      "id": "2",
+      "email": "emilesantos060@gmail.com"
+    }
+  ]
+}
 
